@@ -149,9 +149,9 @@ int	main(void)
 
 # How to use
 
-### If you are a `cadet at 42`, I recommend that you take some time to try to do the project `on your own`, as it's a great way to learn and practice your `programming skills`.
+If you are a `cadet at 42`, I recommend that you take some time to try to do the project `on your own`, as it's a great way to learn and practice your `programming skills`.
 
-### But if you're having `difficulties` or want to see how I did the project, you can clone the repository and compile the project using the `make` command.:
+But if you're having `difficulties` or want to see how I did the project, you can clone the repository and compile the project using the `make` command.:
 
 ```shell
 git clone git@github.com:Chrystian-Natanael/garbage-collector.git garbage_collector
