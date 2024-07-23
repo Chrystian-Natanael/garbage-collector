@@ -16,9 +16,9 @@
 
 <h3> 🦮 Sumário: 🦮 <br>
 <br>
-<a href="https://github.com/Chrystian-Natanael/garbage-collector/blob/main/README_BR.md#mandat%C3%B3rio-parte-1" style="color: inherit; text-decoration: none;">🔗 Sobre o projeto</a> <br> <br>
-<a href="https://github.com/Chrystian-Natanael/garbage-collector/blob/main/README_BR.md#mandat%C3%B3rio-parte-2" style="color: inherit; text-decoration: none;">🔗 Como ele funciona</a> <br> <br>
-<a href="https://github.com/Chrystian-Natanael/garbage-collector/blob/main/README_BR.md#-parte-b%C3%B4nus" style="color: inherit; text-decoration: none;">🔗 Como usar </a>
+<a href="https://github.com/Chrystian-Natanael/garbage-collector/blob/main/README_BR.md#sobre-o-projeto" style="color: inherit; text-decoration: none;">🔗 Sobre o projeto</a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/garbage-collector/blob/main/README_BR.md#como-ele-funciona" style="color: inherit; text-decoration: none;">🔗 Como ele funciona</a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/garbage-collector/blob/main/README_BR.md#como-usar" style="color: inherit; text-decoration: none;">🔗 Como usar </a>
 <br>
 </h3>
 
@@ -41,9 +41,9 @@
 
 ## 💡 `Lógica` do coletor:
 
-Para fazermos esse `mini` coletor de lixo, vamos utilizar um conceito que aprendi enquanto fazia o meu `minishell`, a `árvore binária`.
+Para fazermos esse `mini` coletor de lixo, vamos utilizar um conceito que aprendi enquanto fazia o meu [`minishell`](https://github.com/Chrystian-Natanael/minishell), a `árvore binária`.
 
-Caso não conheca o conceito de árvores, eu recomendo alguns vídeos que me ajudaram a entender melhor o conceito no meu repositório do `minishell`, mas um que não é tão longo e pode ilustrar o que acontece no projeto é este do canal `Bro Code`: [Learn Tree traversal in 3 minutes 🧗](https://www.youtube.com/watch?v=b_NjndniOqY).
+Caso não conheca o conceito de árvores, eu recomendo alguns vídeos que me ajudaram a entender melhor o conceito no meu repositório do [`minishell`](https://github.com/Chrystian-Natanael/minishell), mas um que não é tão longo e pode ilustrar o que acontece no projeto é este do canal `Bro Code`: [Learn Tree traversal in 3 minutes 🧗](https://www.youtube.com/watch?v=b_NjndniOqY).
 
 Mas um `resumo rápido` do que é uma `árvore binária`:
 

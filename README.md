@@ -16,9 +16,9 @@
 
 <h3> 🦮 Summary: 🦮 <br>
 <br>
-<a href="https://github.com/Chrystian-Natanael/garbage-collector/blob/main/README_BR.md#mandat%C3%B3rio-parte-1" style="color: inherit; text-decoration: none;">🔗 About the project</a> <br> <br>
-<a href="https://github.com/Chrystian-Natanael/garbage-collector/blob/main/README_BR.md#mandat%C3%B3rio-parte-2" style="color: inherit; text-decoration: none;">🔗 How does it work?</a> <br> <br>
-<a href="https://github.com/Chrystian-Natanael/garbage-collector/blob/main/README_BR.md#-parte-b%C3%B4nus" style="color: inherit; text-decoration: none;">🔗 How to use </a>
+<a href="https://github.com/Chrystian-Natanael/garbage-collector?tab=readme-ov-file#about-the-project" style="color: inherit; text-decoration: none;">🔗 About the project</a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/garbage-collector?tab=readme-ov-file#how-does-it-work" style="color: inherit; text-decoration: none;">🔗 How does it work?</a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/garbage-collector?tab=readme-ov-file#how-to-use" style="color: inherit; text-decoration: none;">🔗 How to use </a>
 <br>
 </h3>
 
