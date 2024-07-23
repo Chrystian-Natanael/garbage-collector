@@ -71,7 +71,6 @@ SHELL := /bin/bash
 #! ******************************************************************************#
 
 CFLAGS = -Wall -Wextra -Werror -g3
-DFLAGS = -Wall -Wextra -Werror -g3 -fsanitize=address
 LDLIBS = -ldl -lglfw -pthread
 CPPFLAGS = $(addprefix -I,$(INCS_PATH)) -MMD -MP
 COMP_OBJ = $(CC) $(CFLAGS) $(CPPFLAGS) -c $< -o $@
@@ -106,14 +105,9 @@ define help
 	echo "${DARK_RED}Available targets:${RESET}"
 	printf "\n"
 	echo "${DARK_BLUE}all:${RESET} ${LIGHT_GRAY}Build push swap${RESET}"
-	echo "${DARK_BLUE}both:${RESET} ${LIGHT_GRAY}Build push swap and checker${RESET}"
-	echo "${DARK_BLUE}bonus:${RESET} ${LIGHT_GRAY}Build checker${RESET}"
 	echo "${DARK_BLUE}re:${RESET} ${LIGHT_GRAY}Rebuild the program${RESET}"
 	echo "${DARK_BLUE}clean:${RESET} ${LIGHT_GRAY}Remove the object files${RESET}"
 	echo "${DARK_BLUE}fclean:${RESET} ${LIGHT_GRAY}Remove the program and the object files${RESET}"
-	echo "${DARK_BLUE}debug:${RESET} ${LIGHT_GRAY}Build the program with debugging information${RESET}"
-	echo "${DARK_BLUE}case:${RESET} ${LIGHT_GRAY}Show numbers with best and worst case${RESET}"
-	echo "${DARK_BLUE}test_nb:${RESET} ${LIGHT_GRAY}Test the program with provided list length${RESET}"
 endef
 
 #! ******************************************************************************#
