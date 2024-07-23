@@ -6,14 +6,14 @@
 /*   By: cnatanae <cnatanae@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/19 17:17:42 by cnatanae          #+#    #+#             */
-/*   Updated: 2024/06/10 15:57:16 by cnatanae         ###   ########.fr       */
+/*   Updated: 2024/07/23 08:31:51 by cnatanae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /**
  * @file insert.c
- * @brief This file contains the typetree_insert function
- * @author @Chrystian-Natanael && @kellyhayd
+ * @brief This file contains the insert function
+ * @author @Chrystian-Natanael
  * @date 2024/04/19
 */
 
@@ -38,7 +38,7 @@ static void	helper(t_typetree *typetree, void *address)
 	}
 }
 
-void	typetree_insert(void *address)
+void	insert(void *address)
 {
 	t_typetree	*typetree;
 
@@ -51,10 +51,10 @@ void	typetree_insert_matrix(void **matrix)
 	int	i;
 
 	i = 0;
-	typetree_insert(matrix[i]);
+	insert(matrix[i]);
 	while (matrix[i])
 	{
-		typetree_insert(matrix[i]);
+		insert(matrix[i]);
 		i++;
 	}
 }

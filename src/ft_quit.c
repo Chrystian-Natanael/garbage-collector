@@ -6,14 +6,14 @@
 /*   By: cnatanae <cnatanae@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 11:05:04 by cnatanae          #+#    #+#             */
-/*   Updated: 2024/04/22 12:42:00 by cnatanae         ###   ########.fr       */
+/*   Updated: 2024/07/23 07:50:13 by cnatanae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /**
  * @file ft_quit.c
  * @brief This file contains the quit function
- * @author @Chrystian-Natanael && @kellyhayd
+ * @author @Chrystian-Natanael
  * @date 2024/04/22
 */
 

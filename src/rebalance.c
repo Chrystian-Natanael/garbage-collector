@@ -6,14 +6,14 @@
 /*   By: cnatanae <cnatanae@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/19 17:15:44 by cnatanae          #+#    #+#             */
-/*   Updated: 2024/04/22 12:45:27 by cnatanae         ###   ########.fr       */
+/*   Updated: 2024/07/23 07:50:26 by cnatanae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /**
  * @file rebalance.c
  * @brief This file contains the functions to rebalance the typetree node
- * @author @Chrystian-Natanael && @kellyhayd
+ * @author @Chrystian-Natanael
  * @date 2024/04/19
 */
 

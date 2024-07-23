@@ -6,7 +6,7 @@
 /*   By: cnatanae <cnatanae@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/19 16:22:18 by cnatanae          #+#    #+#             */
-/*   Updated: 2024/06/10 15:58:03 by cnatanae         ###   ########.fr       */
+/*   Updated: 2024/07/23 08:31:51 by cnatanae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,11 +16,11 @@
 /**
  * @file garbage_collector.h
  * @brief This file contains the garbage collector functions
- * @author @Chrystian-Natanael && @kellyhayd
+ * @author @Chrystian-Natanael
  * @date 2024/04/19
 */
 
-/*For use exit()*/
+//* For use exit(), malloc() and free()
 # include <stdlib.h>
 
 /*define t_typetree as pointer of struct s_typetree*/
@@ -89,12 +89,12 @@ int			typetree_get_height(t_typetree typetree);
 void		typetree_update_height(t_typetree typetree);
 
 /**
- * @brief typetree_insert
+ * @brief insert
  * @details insert a address in the binary tree
  * @param address is the address of the allocated memory to be stored in
  * the binary tree
 */
-void		typetree_insert(void *address);
+void		insert(void *address);
 
 /**
  * @brief typetree_insert_matrix

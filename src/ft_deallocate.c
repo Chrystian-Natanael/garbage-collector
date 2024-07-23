@@ -6,14 +6,14 @@
 /*   By: cnatanae <cnatanae@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/22 10:38:08 by cnatanae          #+#    #+#             */
-/*   Updated: 2024/04/22 12:41:24 by cnatanae         ###   ########.fr       */
+/*   Updated: 2024/07/23 07:50:09 by cnatanae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /**
  * @file ft_deallocate.c
  * @brief This file contains the deallocate function
- * @author @Chrystian-Natanael && @kellyhayd
+ * @author @Chrystian-Natanael
  * @date 2024/04/22
 */
 

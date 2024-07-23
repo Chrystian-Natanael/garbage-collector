@@ -6,14 +6,14 @@
 /*   By: cnatanae <cnatanae@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/04/19 17:20:48 by cnatanae          #+#    #+#             */
-/*   Updated: 2024/04/22 12:47:00 by cnatanae         ###   ########.fr       */
+/*   Updated: 2024/07/23 07:50:19 by cnatanae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /**
  * @file height.c
  * @brief This file contains func. to get and update the height of typetree node
- * @author @Chrystian-Natanael && @kellyhayd
+ * @author @Chrystian-Natanael
  * @date 2024/04/19
 */
 
